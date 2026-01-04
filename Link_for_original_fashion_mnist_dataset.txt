@@ -1,0 +1,3 @@
+Original Fashion_Mnist dataset before modification from kaggle
+
+https://www.kaggle.com/datasets/zalando-research/fashionmnist
